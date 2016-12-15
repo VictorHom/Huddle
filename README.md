@@ -32,9 +32,7 @@ Optionals
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.giphy.com/l0HlQJFNLcaRnhl7O.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+https://vimeo.com/194913991
 
 ## Notes
 
